@@ -2,9 +2,6 @@
 
 I'm currently a Master's student in Library and Information Science at Drexel University 👩🏻‍💻
 
-- [The Data Topic](https://github.com/topics/data) seems like it should contain datasets from the topic description. But scrolling through the tagged repositories it doesn't seem like many repositories follow this definition. 
-- [The R Topic](https://github.com/topics/r) seems to have many relevant packages to R statistical software, but it is difficult to sort through repositories under the topic.
-
 <!--
 **jo-schroeder/jo-schroeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
