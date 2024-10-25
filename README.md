@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-I'm currently a Master's student in Library and Information Science at Drexel University 👩🏻‍💻
+I'm a Data Services Librarian at Boston College 👩🏻💻
 
 <!--
 **jo-schroeder/jo-schroeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
